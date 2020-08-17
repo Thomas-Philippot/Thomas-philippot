@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love Metal Music ❤️
 
 
-## My Github stats 📊
+## My Github stats
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=vue" alt="thomas-philippot" /></a>
