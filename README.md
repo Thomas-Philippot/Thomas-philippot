@@ -18,3 +18,8 @@
 </p>
 
 <!--START_SECTION:activity-->
+
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-github.thomas-philippot.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />](https://open.spotify.com/user/1mek88p9cm5qqde0941ebqfmu?si=C2EPSDpmRZKRL9jb46i8cw)

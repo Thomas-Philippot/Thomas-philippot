@@ -14,3 +14,11 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+client id: 5985dea494ae407097dd8f01b020f5ce
+client secret: 2aa88c25befc4a9dbc54995568bea8f7
+callback: AQARZ2Hf7KKIAtUol7hO6DI-h6m1hpeIhPekDdnYP2u3BlPl-9F5Q_KD6L7sxKaBPMjTgN1RA8Y0Aqs1PgCCHtpPg7GZ9suxpJRCsEmjUdDWaEoxiI7IRJPheSmc4uAAKmxyap-GdsULu5rvzoeGTOhx4mBFJpsOJgf_BU8tyNeO7SuGfrMDsSXfGXhByEgVaniKdscNTT5EfeaICjZzzD9wdTw2CPqKaqopfTUlWJnq4gmf7KY
+
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic NTk4NWRlYTQ5NGFlNDA3MDk3ZGQ4ZjAxYjAyMGY1Y2U6MmFhODhjMjViZWZjNGE5ZGJjNTQ5OTU1NjhiZWE4Zjc=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQARZ2Hf7KKIAtUol7hO6DI-h6m1hpeIhPekDdnYP2u3BlPl-9F5Q_KD6L7sxKaBPMjTgN1RA8Y0Aqs1PgCCHtpPg7GZ9suxpJRCsEmjUdDWaEoxiI7IRJPheSmc4uAAKmxyap-GdsULu5rvzoeGTOhx4mBFJpsOJgf_BU8tyNeO7SuGfrMDsSXfGXhByEgVaniKdscNTT5EfeaICjZzzD9wdTw2CPqKaqopfTUlWJnq4gmf7KY" https://accounts.spotify.com/api/token
