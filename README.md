@@ -6,12 +6,7 @@
 - ⚡ Fun fact: I love Metal Music ❤️
 
 <p align="center">
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=vue" alt="thomas-philippot" />
-</p>
-
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html&theme=vue" alt="thomas-philippot" />
-</p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=vue" alt="thomas-philippot" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html&theme=vue" alt="thomas-philippot" />
 </p>
 
