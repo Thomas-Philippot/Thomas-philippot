@@ -18,9 +18,10 @@
 </p>
 
 
-## GitHub activities ⚡
+## Recent activities ⚡
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
 
