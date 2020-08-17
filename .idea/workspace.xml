@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e97dcfc0-feba-4eac-a6be-ef7ae5ee7e70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/blog-post-workflow.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -32,11 +33,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597660870512</updated>
-      <workItem from="1597660871744" duration="5375000" />
+      <workItem from="1597660871744" duration="5877000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2102" y="107" width="1536" height="895" key="MergeDialog" timestamp="1597671623981">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2102" y="107" width="1536" height="895" key="MergeDialog/1920.0.1920.1080/0.428.1920.1080@1920.0.1920.1080" timestamp="1597671623981" />
+    <state x="2515" y="299" width="719" height="510" key="MultipleFileMergeDialog" timestamp="1597671623984">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2515" y="299" width="719" height="510" key="MultipleFileMergeDialog/1920.0.1920.1080/0.428.1920.1080@1920.0.1920.1080" timestamp="1597671623984" />
   </component>
 </project>

@@ -9,20 +9,20 @@
 - 💬 Ask me about [Mineral Contest](https://github.com/kaq666/mineral-contest)
 - ⚡ Fun fact: I love Metal Music ❤️
 
-
-## My Github stats
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=vue" alt="thomas-philippot" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html&theme=vue" alt="thomas-philippot" /></a>
-</p>
-
-
 ## Recent activities ⚡
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-### Spotify Playing 🎧
+### Latest Blog posts 📖
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+### Spotify Playing 🎧
 [<img src="https://spotify-github.thomas-philippot.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />](https://open.spotify.com/user/1mek88p9cm5qqde0941ebqfmu?si=C2EPSDpmRZKRL9jb46i8cw)
+
+## My Github stats
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=vue" alt="thomas-philippot" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html&theme=vue" alt="thomas-philippot" /></a>
+</p>
