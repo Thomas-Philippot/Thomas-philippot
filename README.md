@@ -18,3 +18,9 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#15](https://github.com//Thomas-Philippot/GamingNews/pull/15) in [Thomas-Philippot/GamingNews](https://github.com//Thomas-Philippot/GamingNews)
+2. 🎉 Merged PR [#87](https://github.com//Thomas-Philippot/shopify-storefront/pull/87) in [Thomas-Philippot/shopify-storefront](https://github.com//Thomas-Philippot/shopify-storefront)
+3. 🎉 Merged PR [#88](https://github.com//Thomas-Philippot/shopify-storefront/pull/88) in [Thomas-Philippot/shopify-storefront](https://github.com//Thomas-Philippot/shopify-storefront)
+4. 🎉 Merged PR [#17](https://github.com//Thomas-Philippot/mineral-contest-website/pull/17) in [Thomas-Philippot/mineral-contest-website](https://github.com//Thomas-Philippot/mineral-contest-website)
+5. 💪 Opened PR [#17](https://github.com//Thomas-Philippot/mineral-contest-website/pull/17) in [Thomas-Philippot/mineral-contest-website](https://github.com//Thomas-Philippot/mineral-contest-website)
+<!--END_SECTION:activity-->
