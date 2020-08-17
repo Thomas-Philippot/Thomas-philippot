@@ -5,7 +5,7 @@
 - 💬 Ask me about [Mineral Contest](https://github.com/kaq666/mineral-contest)
 - ⚡ Fun fact: I love Metal Music ❤️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html" alt="thomas-philippot" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true" alt="thomas-philippot" /></p>
+|                         |                         |
+|-------------------------|-------------------------|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=vue" alt="thomas-philippot" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html&theme=vue" alt="thomas-philippot" /> |
 
