@@ -16,3 +16,5 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=vue" alt="thomas-philippot" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html&theme=vue" alt="thomas-philippot" /></a>
 </p>
+
+<!--START_SECTION:activity-->
