@@ -14,11 +14,11 @@
 
 <!--END_SECTION:activity-->
 
-### Latest Blog posts 📖
+## Latest Blog posts 📖
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 [<img src="https://spotify-github.thomas-philippot.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />](https://open.spotify.com/user/1mek88p9cm5qqde0941ebqfmu?si=C2EPSDpmRZKRL9jb46i8cw)
 
 ## My Github stats
