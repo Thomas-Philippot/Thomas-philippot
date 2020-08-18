@@ -15,6 +15,10 @@
 
 ## Latest Blog posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [How I deployed my Nuxt app on a rasberry pi](https://dev.to/thomas_ph35/how-i-deployed-my-nuxt-app-on-a-rasberry-pi-3apl)
+- [5 WebStorm shortcuts I use everyday](https://dev.to/thomas_ph35/5-webstorm-shortcuts-i-use-everyday-3799)
+- [Google Login with Firebase and Nuxt](https://dev.to/thomas_ph35/google-login-with-firebase-and-nuxt-31kk)
+- [How I built a desktop app with vue in minutes](https://dev.to/thomas_ph35/how-i-built-a-desktop-app-with-vue-in-minutes-1005)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify Playing 🎧
