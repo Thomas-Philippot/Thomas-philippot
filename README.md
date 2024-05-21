@@ -2,9 +2,6 @@
 
 <a href="https://piaille.fr/@adewale"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
 <a href="https://dev.to/thomas_ph35"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://www.twitch.tv/adeven28">
-<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
 
 #### A French full stack developer from Rennes - France.
 
