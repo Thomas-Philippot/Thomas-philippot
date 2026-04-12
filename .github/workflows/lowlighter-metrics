@@ -1,0 +1,21 @@
+name: "Github stats"
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  workflow_dispatch:
+  
+jobs:
+  github-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Edit profile stats
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics/metrics.classic.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, repositories
+        plugin_lines: yes
