@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="231" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="487" class="">
     <defs>
         <style/>
     </defs>
@@ -49,6 +49,51 @@
                                     <div class="right">
                                         <div class="title">How I deployed my Nuxt app on a rasberry pi</div>
                                         <div class="description">deploying Nuxt with server side redering on apache server.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field post largeable-width-half">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                </svg>
+                                <div class="infos">
+                                    <div class="left">
+                                        <div class="date">27 May 2019</div>
+                                        <div class="cover" style="background-image: url(data:image/webp;base64,UklGRmgDAABXRUJQVlA4IFwDAABQFACdASqQADwAPm0ylkgkIqIhIrVbYIANiWkAFtVsffpH49daf4ZUAusP735Dd4O0NjUf8HxgfJX5uPk5eAN3B/gPsA+hX+a/6r+q+tN/kf3jzufSH68fAT/LP65/xew7+wHseFZdcTW8BnVgW+JsC2P2EsL28X0++ruT++ImADvXo8yr4+PXKyO0juQ+w0dlQ3gSJpywhBLvjLPuRNJPSewAaobpuO8iKAAA/voYU60NTv2nbdJs29ZmcKwYu6qPUN7AEYn6txw8xAvCNhzvDDpyyxvWaA23+APn/7Z5gMpzY1dEv8M1H6hVsvLjalOviKL4+W+i0gqucxNx5aCkywk4Rw+2g46xNlIfV/8dWH8z6sP60i0MzlrZR76lkG3QrNwaCk6kBJaAfa5e21OkEUj4376d6krVGG9H0A2qgn9q+GrJjbQVCSe3IXbdQKM9FctG8em7n+N3Q2dHz4s7WXE+BmLXEJpQxFHfwD/lVx2qt48Kcrod9ymqTLPlPzYivKetx5/53/ojfXC3nhuJ82w/74v61eZCSuzKf1md3amfo08ENVALojBfeHe6gUD5xTcuNkUNVZ8QsSDBMlgQv6q10idlF3Q9CTLrcu7shjGPT3mTfxkhZ12fv+n114xTCHSjfCv/+E8pGajuln9nbbP9KpNFSGkOk4XbyU470VABW/Fkk+Xih6XzwrKRLluSWVPZlPiAj+qo9LXURXSQjmDQyFuFrR1PGfsAPKipYb/K0v4MZW/KikttP87cUORyULC8NEfs2vpec7KMVtGYnQ6ZDZ44XHItRvKjFo8Iacs5xmQymCLJD34rkJG4H/cKyTd6GTx2hv5yukQIX6VHPQD7hs/r0vdtL1/aogn1jJ08/oI8AWXojz6dN2S8NxVbL+NZMahJNrih2x055Bmg+0JO6f3dSgHwa82qs7jU+kx+KjxT60X/BaZcyBJc//6oXPy5/RBkoFyD17AuVknmo5t1+LefayV6l08YOFMULpE3nXpc5/NaxugTaaGAI6/9XT5uuHUATx5r5c7vhbEOJPnt+zPevMXpCDmYwie9fiHE4ThfS0qTeETKqwYFGpkj74J99cSlS0SD3wbqdtPyI/CZZZoGckeqPhOsRVxYV3E8sN8BiH/rAAAAAA==);"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title">5 WebStorm shortcuts I use everyday</div>
+                                        <div class="description">the 5 WebStorm shortcut I didn't know I would use</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field post largeable-width-half">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                </svg>
+                                <div class="infos">
+                                    <div class="left">
+                                        <div class="date">6 May 2019</div>
+                                        <div class="cover" style="background-image: url(data:image/webp;base64,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);"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title">Google Login with Firebase and Nuxt</div>
+                                        <div class="description">Login page with nuxt and firebase</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field post largeable-width-half">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                </svg>
+                                <div class="infos">
+                                    <div class="left">
+                                        <div class="date">21 Feb 2019</div>
+                                        <div class="cover" style="background-image: url(data:image/webp;base64,UklGRogDAABXRUJQVlA4IHwDAAAQEwCdASqQADwAPm0wlkckIqIhKrK6UIANiWcA1dmgiAbZ7b6N8A3iz/HZMD4a035mvh5ZAjgVw6qWQu/Uk+hvPR9NewV5OXsE9AD9jjj3O53O2VO1ETmNryvWfck0+bYhYtcxopqEa1r4DhskTibiglf9cUu+5jPGn+MIjOM8q4nXMrq4IH25A7+PAomZBecyziBF5fucc4KEQOA15bCU+AD+/EoADUSDuP59FovO49e+NheBHQr/WKazLF2V5xAQQZvRGqT3Y66lLwz4oN4g+bvXTTUV7dDecqqqwBAj6CtNKHSmL1fk9+35p4Mf32FmJHrfsXA+HtCHgat4FkSz359buKx7TftDxcXk8NxifSs2Bu/M4UN2HvT0HCAXJnAuDM8F0lrHHP2/QIID4+m65sj7InMgFLO0zxElrBoPT2iWmf851F8vWCv7zgDucUIoS0QHL+pY6KnVGzXodnqFGeRTIf33wSc4b1DRHqUL/U33jl4osABvHBOOgwJ+SKMD4qTbtN7ptYgc+D9DGL4/Um/U0AOASdH4+Tp8NZvZd+ElwxLKIab5Pv1a5NrTLOcDhzdIok+VhPZA7CDqBMr37QBEfejteJJFaPd7N6VuCPobN74/E2QacbDQs94p+f9Fud9LjZrPsr/HpPsqY9TMvM1Fw9+lRTRR0l9qy4ouH/1+FeXi74IZH82FXkcu5kf0IcBhjDqrrL9+pSDSji03Ds8WbdAO7bP6RhuG/YJ/YD/VjGnfOepRhHm0bgxO35mI3k879TSEGXj9b3jK2AYdLonqIXxEbmHojibRHzevPeFMqOISr74zvhTmfzeaTGUJDVV53jy1ENVvmCG5OyF7xUnDKIIZCv5XvclfIwrwZ/hI2Ot2UXfkTDUPgjUdmmN0fuH9JmK4Nn3WfZS6uhQ4mqRjUa6YWVGbSjKUzTO5LFpQO4ZnCtbYMY4iE0upMxdT0n/RzJpPiL0YRbvDxUaZPlymMA+TbVNs6u6tzM7DDAVHsgMYE69Tr5vB45vBgs5ptSedbYALyrv3wVQdRFZlBsPDKowzyzrCisHNxibWe2P38A76poH4TBMutR9+ThbXt2BhcYUAz62BuQ+xbzw13nzjxtVt/czJwucS35TRH6LB+9evTy3wwsqfz/G2V1tqUUceUj5PyT/uELbM80aVgkj/uitdEwAAAAAA);"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title">How I built a desktop app with vue in minutes</div>
+                                        <div class="description">When it comes to desktop app, electron is a powerful tool. You can build cross-platform applications...</div>
                                     </div>
                                 </div>
                             </div>
