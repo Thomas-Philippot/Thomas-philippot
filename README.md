@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Thomas Philippot
-
 <img src="metrics/metrics.classic.svg" alt="Metrics">
 <img src="metrics/metrics.plugin.repositories.pinned.svg" alt="Metrics">
 
