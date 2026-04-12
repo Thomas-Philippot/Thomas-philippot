@@ -67,11 +67,3 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-## My Github stats
-<img src="https://komarev.com/ghpvc/?username=thomas-philippot" alt="thomas-philippot" />
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thomas-philippot&show_icons=true&theme=catppuccin_mocha" alt="thomas-philippot" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-philippot&layout=compact&hide=html&theme=catppuccin_mocha" alt="thomas-philippot" /></a>
-</p>
-
