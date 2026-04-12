@@ -1,11 +1,11 @@
-name: "Github stats"
+name: Github Stats
 on:
   push:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
   workflow_dispatch:
-  
+
 jobs:
   github-stats:
     runs-on: ubuntu-latest
