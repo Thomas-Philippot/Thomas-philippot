@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Thomas Philippot
-<a href="https://dev.to/thomas_ph35"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 
-#### A French full stack developer from Rennes – France.
+![Metrics](metrics/metrics.classic.svg)
+
+#### French full stack developer from Rennes – France.
 
 - 🔭 I’m currently working on removarr
 - ⚡ Fun fact: I love Metal Music ❤️
-
-![Metrics](/metrics/profile.svg)
 
 #### Languages and Tools:
 <p>
@@ -26,36 +25,6 @@
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-## Open Source Projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thomas-philippot/removarr"><b>Removarr</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thomas-philippot/removarr?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thomas-philippot/removarr?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thomas-philippot/removarr?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thomas-philippot/removarr?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/catppuccin/userstyles"><b>Catppuccin Userstyles</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/catppuccin/userstyles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/catppuccin/userstyles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/catppuccin/userstyles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/catppuccin/userstyles?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 ## Latest Blog posts 📖
 
 <!-- BLOG-POST-LIST:START -->
@@ -66,4 +35,5 @@
 - [How I built a desktop app with vue in minutes](https://dev.to/thomas_ph35/how-i-built-a-desktop-app-with-vue-in-minutes-1005)
 
 <!-- BLOG-POST-LIST:END -->
+<a href="https://dev.to/thomas_ph35"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 
