@@ -15,7 +15,7 @@ jobs:
     - name: Edit profile stats
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.classic.svg
+        filename: metrics/metrics.classic.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories
         plugin_lines: yes

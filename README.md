@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on removarr
 - ⚡ Fun fact: I love Metal Music ❤️
 
+![Metrics](/metrics/profile.svg)
+
 #### Languages and Tools:
 <p>
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
