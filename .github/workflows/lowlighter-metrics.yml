@@ -21,6 +21,23 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories
         plugin_lines: yes
+    - name: Icons
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics/metrics.plugin.topics.icons.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_topics: yes
+        plugin_topics_limit: 0
+        plugin_topics_mode: icons
+    - name: Pinned repositories
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics/metrics.plugin.repositories.pinned.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_repositories: yes
+        plugin_repositories_pinned: 2
     - name: Recent posts with descriptions and cover images
       uses: lowlighter/metrics@latest
       with:
@@ -30,7 +47,7 @@ jobs:
         plugin_posts: yes
         plugin_posts_user: thomas_ph35
         plugin_posts_source: dev.to
-        plugin_posts_limit: 2
+        plugin_posts_limit: 5
         plugin_posts_descriptions: yes
         plugin_posts_covers: yes
 

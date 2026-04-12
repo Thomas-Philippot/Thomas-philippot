@@ -2,10 +2,7 @@
 
 ![Metrics](metrics/metrics.classic.svg)
 
-#### French full stack developer from Rennes – France.
-
-- 🔭 I’m currently working on removarr
-- ⚡ Fun fact: I love Metal Music ❤️
+![Blog posts](metrics/metrics.plugin.posts.full.svg)
 
 #### Languages and Tools:
 <p>
@@ -25,15 +22,4 @@
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-## Latest Blog posts 📖
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How I deployed my Nuxt app on a rasberry pi](https://dev.to/thomas_ph35/how-i-deployed-my-nuxt-app-on-a-rasberry-pi-3apl)
-- [5 WebStorm shortcuts I use everyday](https://dev.to/thomas_ph35/5-webstorm-shortcuts-i-use-everyday-3799)
-- [Google Login with Firebase and Nuxt](https://dev.to/thomas_ph35/google-login-with-firebase-and-nuxt-31kk)
-- [How I built a desktop app with vue in minutes](https://dev.to/thomas_ph35/how-i-built-a-desktop-app-with-vue-in-minutes-1005)
-
-<!-- BLOG-POST-LIST:END -->
-<a href="https://dev.to/thomas_ph35"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 
